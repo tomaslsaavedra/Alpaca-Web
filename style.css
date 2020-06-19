@@ -10140,9 +10140,9 @@ Wavify Area
   .brand-default .brand {
     text-align: center; }
     .brand-default .brand a img {
-      -webkit-filter: grayscale(100%);
-      filter: grayscale(100%);
-      opacity: .3;
+      /* -webkit-filter: grayscale(100%); */
+      /* filter: grayscale(100%); */
+      /* opacity: .3; */
       -webkit-transition: all .3s linear;
       -o-transition: all .3s linear;
       transition: all .3s linear;
