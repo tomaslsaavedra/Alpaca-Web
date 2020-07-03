@@ -95,19 +95,19 @@
         background: #f5f6fa !important;
         height: 50px !important;
         &:focus{
-            border: 1px solid #393185 !important;
+            border: 1px solid #6564B5 !important;
         }
     }
     textarea{
         border: 1px solid #f5f6fa !important;
         background: #f5f6fa !important;
         &:focus{
-            border: 1px solid #393185 !important;
+            border: 1px solid #6564B5 !important;
         }
     }
     input[type="submit"]{
-        border-color: #393185 !important;
-        background-color: #393185 !important;
+        border-color: #6564B5 !important;
+        background-color: #6564B5 !important;
         color: $white !important;
         border-radius: 0 !important;
     }
@@ -544,7 +544,7 @@ Contact Form Style 01
 
         input {
             border: 0 none;
-            color: #393185;
+            color: #6564B5;
             border-color: #eee;
             background-color: #fff;
             width: 100%;
@@ -557,7 +557,7 @@ Contact Form Style 01
 
         textarea {
             border: 0 none;
-            color: #393185;
+            color: #6564B5;
             border-color: #eee;
             height: 87px;
             outline: none;
@@ -599,43 +599,43 @@ Contact Form Style 01
 
 .contact-form.contact-form--5 input::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
-    color: #393185;
+    color: #6564B5;
 }
 
 .contact-form.contact-form--5 input::-moz-placeholder {
     /* Firefox 19+ */
-    color: #393185;
+    color: #6564B5;
 }
 
 .contact-form.contact-form--5 input:-ms-input-placeholder {
     /* IE 10+ */
-    color: #393185;
+    color: #6564B5;
 }
 
 .contact-form.contact-form--5 input:-moz-placeholder {
     /* Firefox 18- */
-    color: #393185;
+    color: #6564B5;
 }
 
 
 .contact-form.contact-form--5 textarea::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
-    color: #393185;
+    color: #6564B5;
 }
 
 .contact-form.contact-form--5 textarea::-moz-placeholder {
     /* Firefox 19+ */
-    color: #393185;
+    color: #6564B5;
 }
 
 .contact-form.contact-form--5 textarea:-ms-input-placeholder {
     /* IE 10+ */
-    color: #393185;
+    color: #6564B5;
 }
 
 .contact-form.contact-form--5 textarea:-moz-placeholder {
     /* Firefox 18- */
-    color: #393185;
+    color: #6564B5;
 }
 
 

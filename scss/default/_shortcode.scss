@@ -107,7 +107,7 @@
 }
 
 .color-black {
-    color: #393185;
+    color: #6564B5;
 }
 
 .white {
@@ -244,7 +244,7 @@
 @include config-bg-colors('bg_color--',
 '1'$white,
 '2'$theme-color,
-'3'#393185,
+'3'#6564B5,
 '4'#111,
 '5'#f5f5f5,
 '6'#ecf3ff,
@@ -252,7 +252,7 @@
 '8'#eee,
 '9'#69afed,
 '10'#f9f9f9,
-'11'#393185,
+'11'#6564B5,
 '12'#FCB72B,
 '13'#F8A440,
 '14'#f7f1ec,
@@ -265,10 +265,10 @@
 '21'#f5f3ef,
 '22'#f10,
 '23'#FBFBFD,
-'24'#393185,
+'24'#6564B5,
 '25'#BC9464,
 '26' #7BA100,
-'27' #393185,
+'27' #6564B5,
 '28' #CC327B,
 '29' #FFE2D9,
 '30' #906032,
@@ -1700,7 +1700,7 @@ textarea:-ms-input-placeholder {
 }
 
 [data-black-overlay]:before {
-    background-color: #393185;
+    background-color: #6564B5;
 }
 
 [data-light-overlay]:before {

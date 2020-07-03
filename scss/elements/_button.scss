@@ -63,7 +63,7 @@ button {
         transition: all .3s cubic-bezier(.645, .045, .355, 1);
 
         &.text-dark {
-            color: #393185;
+            color: #6564B5;
         }
 
         &.text-theme {
@@ -108,7 +108,7 @@ button {
             color: #222222;
         }
         &.bk-btn-green {
-            background: #393185;
+            background: #6564B5;
             color: $white;
         }
         &.bk-btn-gray{
@@ -456,8 +456,8 @@ a {
     box-shadow: none !important;
     margin: 0 !important;
     &:hover{
-        background: #393185 !important;
-        border-color: #393185 !important;
+        background: #6564B5 !important;
+        border-color: #6564B5 !important;
         color: $white !important;
         transform: translateY(0px) !important;
     }

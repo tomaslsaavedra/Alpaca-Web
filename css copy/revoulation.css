@@ -204,7 +204,7 @@ website:   	http://www.themepunch.com
     right: 0;
     z-index: -1;
     transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
-    background: #393185
+    background: #6564B5
 }
 
 #rev_slider_5_1 .brook-03 .tp-bullet:hover:after {
@@ -215,7 +215,7 @@ website:   	http://www.themepunch.com
 
 #rev_slider_5_1 .brook-03 .tp-bullet:hover,
 #rev_slider_5_1 .brook-03 .tp-bullet.selected {
-    color: #393185
+    color: #6564B5
 }
 
 
