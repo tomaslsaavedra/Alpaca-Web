@@ -18,7 +18,7 @@
 @media only screen and (max-width: 600px) {
   #bau {
 		
-		color: black;
+		/* color: black; */
   }
 }
 @media only screen and (max-width: 600px) {
@@ -187,5 +187,11 @@ button {
 	.hero-item 
 	{
 	padding-top: 50px;
+	}
+}
+@media only screen and (max-width: 600px) {
+	#size
+	{
+	font-size: 23px;
 	}
 }
